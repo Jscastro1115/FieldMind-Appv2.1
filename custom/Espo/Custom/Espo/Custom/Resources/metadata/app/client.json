@@ -1,0 +1,9 @@
+{
+  "applicationName": "FIELDMIND",
+  "logo": "client/custom/img/logo.png",
+  "favicon": "client/custom/img/favicon.ico",
+  "cssList": [
+    "__APPEND__",
+    "client/custom/css/fieldmind.css"
+  ]
+}

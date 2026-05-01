@@ -1,0 +1,8 @@
+body[data-theme-name="Dark"] {
+  --navbar-bg: #001A33;
+  --navbar-inverse-bg: #001A33;
+  --navbar-inverse-border: #001A33;
+  --brand-primary: #3F7CAC;
+  --link-color: #7BBBEB;
+  --brand-warning: #FFB81C;
+}
